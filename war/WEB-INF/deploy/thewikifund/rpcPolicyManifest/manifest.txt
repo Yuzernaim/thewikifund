@@ -1,0 +1,3 @@
+# Module thewikifund
+# RPC service class, partial path of RPC policy file
+example.client.GreetingService, D0C4732C7ACA6FFB980FBDC5A3DEF382.gwt.rpc

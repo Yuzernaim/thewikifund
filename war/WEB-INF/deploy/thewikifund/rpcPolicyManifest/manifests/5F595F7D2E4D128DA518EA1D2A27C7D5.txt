@@ -1,0 +1,2 @@
+serviceClass: example.client.GreetingService
+path: D0C4732C7ACA6FFB980FBDC5A3DEF382.gwt.rpc
